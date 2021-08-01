@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:wght@400;700&display=swap');
+body {
+    color: purple;
+    font-family: 'Ubuntu Mono', monospace;
+}
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+input {
+    text-align: center;
+    border-radius: 20px;
+    font-family: 'Ubuntu Mono', monospace;
+}
+input:focus {
+    border-color: purple;
+    font-weight: bold;
+    font-family: 'Ubuntu Mono', monospace;
+}
+h4 {
+    color: purple;
+    font-weight: normal;
+}
+.imgcenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.center {
+    text-align: center;
+}
+a {
+    color: purple;
+}
+a:hover {
+    font-weight: bold;
+}
+a:visited {
+    color: purple;
+}
